@@ -1,6 +1,6 @@
 ## Hi there ✨
 
-<img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="250" height="250"><img align="center" src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="250" height="250">
+<img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="220" height="220"><img align="center" src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF" width="220" height="220"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="220" height="220">
 
 <h1 align="center">I'm Lucy</h1>
 
