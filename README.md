@@ -11,15 +11,15 @@
 <img src="https://i.postimg.cc/PrsJd6QJ/pirato.gif" alt="GIF">
 <img src="https://i.postimg.cc/9f7F3ZwZ/portalwindows.gif" alt="GIF">
 
-<h1 align="center">I'm Lucy</h1> <img src="https://i.postimg.cc/8cw0XX14/walk-cat01.gif" alt="GIF">
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">I'm Lucy</h1>
+<h3 align="center">A passionate web developer</h3><img src="https://i.postimg.cc/8cw0XX14/walk-cat01.gif" alt="GIF">
 <p align="center">
  Front-End/Back-End web developer. Contributing in areas of design, installation, testing and maintenance of web systems.
  Proficient in a variety of technologies, including web development, design and database tools. Able to effectively self-manage
  independent projects, as well as collaborate productively.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x&label=Profile%20views&color=0e75b6&style=flat" alt="x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucia-aranda&label=Profile%20views&color=0e75b6&style=flat" alt="x" /> </p>
 
 - 🧪 Ask me about my pet project [exo](https://lucia-aranda.github.io/exo/) <img src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
 
@@ -46,6 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucia-aranda&show_icons=true&locale=en&layout=compact" alt="x" /></p>
 
-<img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
-<img align="center" src="https://i.postimg.cc/ZY1H4hQN/aquarcat.gif" alt="GIF">
-<img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
+<img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/ZY1H4hQN/aquarcat.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
