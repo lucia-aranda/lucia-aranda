@@ -4,23 +4,20 @@
 <img src="https://i.postimg.cc/g2bZBzTM/lmkbubbl.gif" alt="GIF">
 <img src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF">
 <img src="https://i.postimg.cc/nLBZSxN1/tux-windows-throw.gif" alt="GIF">
-<img src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
+
 <img src="https://i.postimg.cc/HnGMDTLs/Love-glass-heart-prv.gif" alt="GIF">
 <img src="https://i.postimg.cc/GhdRM6jF/mailbox.gif" alt="GIF">
 <img src="https://i.postimg.cc/02QW2f5g/peixe-aqua.gif" alt="GIF">
 <img src="https://i.postimg.cc/PrsJd6QJ/pirato.gif" alt="GIF">
 <img src="https://i.postimg.cc/9f7F3ZwZ/portalwindows.gif" alt="GIF">
 
+<h1 align="center">I'm Lucy</h1> <img display="inline-block"  src="https://i.postimg.cc/8cw0XX14/walk-cat01.gif" alt="GIF">
+<h3 align="center">A passionate web developer from México</h3>
 <p align="center">
  Front-End/Back-End web developer. Contributing in areas of design, installation, testing and maintenance of web systems.
  Proficient in a variety of technologies, including web development, design and database tools. Able to effectively self-manage
  independent projects, as well as collaborate productively.
 </p>
-
-<img src="https://i.postimg.cc/8cw0XX14/walk-cat01.gif" alt="GIF">
-
-<h1 align="center">I'm Lucy</h1>
-<h3 align="center">A passionate web developer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x&label=Profile%20views&color=0e75b6&style=flat" alt="x" /> </p>
 
@@ -57,5 +54,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x&" alt="x" /></p>
 
-<img src="https://i.postimg.cc/ZY1H4hQN/aquarcat.gif" alt="GIF">
+<img align="center" style="display: inline-block;" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
+<img align="center" style="display: inline-block;" src="https://i.postimg.cc/ZY1H4hQN/aquarcat.gif" alt="GIF">
+<img align="center" style="display: inline-block;" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
 <img src="https://i.postimg.cc/pTb4mnGf/bookmark.gif" alt="GIF">
