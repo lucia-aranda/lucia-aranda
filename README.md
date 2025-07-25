@@ -48,10 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucia-aranda&show_icons=true&locale=en&layout=compact" alt="x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucia-aranda&" alt="x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucia-aranda&show_icons=true&locale=en" alt="x" /></p>
-
 <img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
 <img align="center" src="https://i.postimg.cc/ZY1H4hQN/aquarcat.gif" alt="GIF">
 <img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
