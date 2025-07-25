@@ -1,6 +1,6 @@
 ## Hi there ✨
 
-<img src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF"><img src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF">
+<img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="40" height="40"><img align="center" src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="40" height="40">
 
 <h1 align="center">I'm Lucy</h1>
 
