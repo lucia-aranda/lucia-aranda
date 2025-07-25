@@ -44,4 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucia-aranda&show_icons=true&locale=en&layout=compact" alt="x" /></p>
 
+&nbps
+
 <img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/ZY1H4hQN/aquarcat.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF">
