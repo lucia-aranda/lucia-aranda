@@ -19,8 +19,6 @@
  independent projects, as well as collaborate productively.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucia-aranda&label=Profile%20views&color=0e75b6&style=flat" alt="x" /> </p>
-
 - 🧪 Ask me about my pet project [exo](https://lucia-aranda.github.io/exo/) <img src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
 
 - 🪴 I’m currently learning **JavaScript, UI and AI.** <img src="https://i.postimg.cc/kXgJJktn/icono-windows.gif" alt="GIF">
