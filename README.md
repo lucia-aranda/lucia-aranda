@@ -1,4 +1,4 @@
-## Hi there! ✨
+## Hello there! ✨
 
 <img align="left" src="" alt="" width="1" height="1"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="150" height="150"><img align="center" src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF" width="450" height="450"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="150" height="150">
 
