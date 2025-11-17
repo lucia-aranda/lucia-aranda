@@ -10,7 +10,7 @@
 
 <p align="center">
  Front-End/Back-End web developer. Contributing in areas of design, installation, testing and maintenance of web systems.
- Proficient in a variety of technologies, including web development, design and database tools. Able to effectively self-manage
+ Proficient in a variety of technologies, including data analysis and database tools. Able to effectively self-manage
  independent projects, as well as collaborate productively.
 </p>
 
