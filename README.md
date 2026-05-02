@@ -20,7 +20,7 @@
 
 - ✨ You can find more about me and my projects at https://lucia-aranda.github.io/portfolio/ <img align="center" src="https://i.postimg.cc/pTb4mnGf/bookmark.gif" alt="GIF">
 
-<!-- <img align="left" src="" alt=""  width="1" height="1"> -->
+<img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
