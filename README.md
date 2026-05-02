@@ -16,9 +16,9 @@
 
 - 🧪 Ask me about my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
 
-- 🪴 I’m currently learning **JavaScript, UI and AI.** <img align="center" src="https://i.postimg.cc/HswxnQ62/CD-3.gif" alt="GIF" width="40" height="40">
+- 🪴 I currently use **Laravel, React, SQL, jQuery, JS, Figma, Bootstrap and Claude AI.** <img align="center" src="https://i.postimg.cc/HswxnQ62/CD-3.gif" alt="GIF" width="40" height="40">
 
-- ✨ You can find more about me and my projects at https://lucia-aranda.github.io/portfolio/ <img align="center" src="https://i.postimg.cc/pTb4mnGf/bookmark.gif" alt="GIF">
+- ✨ Find more here: https://lucia-aranda.github.io/portfolio/ <img align="center" src="https://i.postimg.cc/pTb4mnGf/bookmark.gif" alt="GIF">
 
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
