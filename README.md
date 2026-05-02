@@ -27,4 +27,4 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucia-aranda&show_icons=true&locale=en&layout=compact" alt="x"/></p>-->
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 
-<img src="https://i.postimg.cc/RVDP3HqW/lightbar.gif" alt="GIF" width="100">
+<img src="https://i.postimg.cc/RVDP3HqW/lightbar.gif" alt="GIF" width="1000">
