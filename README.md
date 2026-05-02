@@ -14,7 +14,7 @@
  independent projects, as well as collaborate productively.
 </p>
 
-- 🧪 Ask me about my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
+- 🧪 Have fun with my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
 
 - 🪴 I currently use **Laravel, React, SQL, jQuery, JS, Figma, Bootstrap and Claude AI.** <img align="center" src="https://i.postimg.cc/HswxnQ62/CD-3.gif" alt="GIF" width="40" height="40">
 
