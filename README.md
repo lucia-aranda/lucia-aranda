@@ -1,6 +1,6 @@
-## Hello there.
+## Hello there! ✨
 
-<img align="left" src="" alt="" width="1" height="1"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="150" height="150"><img align="center" src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF" width="450" height="450"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF" width="150" height="150">
+<img align="left" src="" alt="" width="1" height="1"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/QtC9WHFM/welcome.gif" alt="GIF"><img align="center" src="https://i.postimg.cc/mk6SFvLv/rainbowfish.gif" alt="GIF">
 
 <h1 align="center">I'm Lucy</h1>
 
@@ -10,7 +10,7 @@
 
 <p align="center">
  Front-End/Back-End web developer. Contributing in areas of design, installation, testing and maintenance of web systems.
- Proficient in a variety of technologies, including web development, design and database tools. Able to effectively self-manage
+ Proficient in a variety of technologies, including data analysis and database tools. Able to effectively self-manage
  independent projects, as well as collaborate productively.
 </p>
 
@@ -27,4 +27,4 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucia-aranda&show_icons=true&locale=en&layout=compact" alt="x"/></p>-->
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160"><img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 
-<img src="https://i.postimg.cc/RVDP3HqW/lightbar.gif" alt="GIF" width="4000" height="4000">
+<img src="https://i.postimg.cc/RVDP3HqW/lightbar.gif" alt="GIF">
