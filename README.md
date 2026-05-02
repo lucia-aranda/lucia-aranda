@@ -11,7 +11,7 @@
 <p align="center">
  Front-End/Back-End web developer. Contributing in areas of design, installation, testing and maintenance of web systems.
  Proficient in a variety of technologies, including data analysis and database tools. Able to effectively self-manage
- independent projects, as well as collaborate productively.
+ independent projects, as well as collaborate with teams.
 </p>
 
 - 🧪 Have fun with my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
