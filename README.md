@@ -18,10 +18,7 @@
 
 - ✨ Find more here: https://lucia-aranda.github.io/portfolio/ <img align="center" src="https://i.postimg.cc/pTb4mnGf/bookmark.gif" alt="GIF">
 
-- 🧪 Have fun with my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
-> [!WARNING]
-> Beta version
-> 
+- 🧪 Have fun with my pet project (beta) [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
 
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
