@@ -14,11 +14,14 @@
  independent projects, as well as collaborate with teams.
 </p>
 
-- 🧪 Have fun with my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
-
 - 🪴 I'm currently learning **Linux, DynamoDB and TypeScript** <img align="center" src="https://i.postimg.cc/HswxnQ62/CD-3.gif" alt="GIF" width="40" height="40">
 
 - ✨ Find more here: https://lucia-aranda.github.io/portfolio/ <img align="center" src="https://i.postimg.cc/pTb4mnGf/bookmark.gif" alt="GIF">
+
+- 🧪 Have fun with my pet project [exo](https://lucia-aranda.github.io/exo/) <img align="center" src="https://i.postimg.cc/QN6mPTQf/aqua-2.gif" alt="GIF">
+> [!WARNING]
+> Beta version
+> 
 
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
 <img align="left" src="https://i.postimg.cc/D0WXR8hN/valisneria.gif" alt="GIF" width="100" height="160">
